@@ -1,4 +1,4 @@
-# 🌐 ABC Portfolio Website
+# 🌐 Guddu Kumar Portfolio Website
 
 A modern and responsive personal portfolio website built using **HTML5**, **CSS3**, and **JavaScript**. This portfolio showcases my skills, projects, and contact information in a clean and professional layout.
 
