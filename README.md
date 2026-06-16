@@ -63,22 +63,14 @@ portfolio-project/
 Add screenshots of your website inside the **screenshots** folder and display them here.
 
 ## Home Page
-
-```md
 ![Home Page](./screenshots/home-page.png)
-```
 
 ## Skills Section
-
-```md
 ![Skills Section](./screenshots/skills-section.png)
-```
 
 ## Projects Section
-
-```md
 ![Projects Section](./screenshots/projects-section.png)
-```
+
 
 ---
 
